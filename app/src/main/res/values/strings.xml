@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="andDev">Android\nDevelopment</string>
+    <string name="webDev">Web\nDevelopment</string>
+    <string name="iosDev">IOS\nDevelopment</string>
+    <string name="crossDev">Cross\nPlatform</string>
+    <string name="blockDev">Blockchain\nPlatform</string>
+    <string name="mlDev">Machine\nLearning</string>
+</resources>
